@@ -1,4 +1,11 @@
 # Assignment-submission
+
+Project is an interactive learning application designed to explore how different cultures represent and construct numbers. It combines mathematics and linguistics to teach users global numeral systems such as Roman, Mayan, Chinese, Yoruba, and Babylonian.
+The platform includes a numeral system library, a bi-directional conversion engine, and an Olympiad-style practice zone for pattern recognition and problem-solving.
+Python implementations of Roman, Mayan, and Yoruba converters, along with a pattern-puzzle generator, demonstrate the system’s functionality.
+The project helps learners understand numeral structures, identify cultural patterns, and practice analytical reasoning in a hands-on, intuitive way.
+
+#Introduction
 This project focuses on creating an interactive learning application that teaches users how different cultures across the world represent and understand numbers. The goal is to go beyond traditional mathematics and bring together both linguistic logic and numerical structure. The app acts as a bridge between culture, language, and  mathematics.
 #Problem Statement
 Across cultures, numeral systems differ widely in structure, base, linguistic logic, and symbolic representation. However:
